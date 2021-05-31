@@ -9,7 +9,6 @@ Rust implementation of OAuth Core 1.0 Revision A
 """
 
 keywords = ["oauth", "oauth1a", "http"]
-categories = ["http"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
